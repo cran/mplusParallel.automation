@@ -1,0 +1,11 @@
+81cfc07bc1ff2c20b3816f0df1a06cae *DESCRIPTION
+b91eb0c13dbe1cdc4786c76e70febd71 *NAMESPACE
+0bd0c49a84c7fd4c806304351e9ee6dc *R/automationFunctions.R
+e0a605a201cde3028c0c5c5a4d66ddc1 *R/mplusParallel_automation.R
+8685cf3c615acaa3696ede4614c4d900 *R/removeParFolders.R
+2d40c15186ca3c1826f25d7f6d69ca11 *R/zzz.R
+ccf6c5fb3c9657969ca9623ae7ea566a *README.md
+dfffa8c0d4182ad4a102412ffb584d50 *TODO
+8e127363074c5ad22f708b7db5ba11ae *man/Base_AutomationFunc_single.Rd
+a865d73a7a4bd5e17c43354eeca7d752 *man/mplusParallel_automation.Rd
+3735ec549e0ba764ed225f9258291505 *man/removeParFolders.Rd
